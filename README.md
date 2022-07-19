@@ -1,8 +1,8 @@
-Permutation Search of Ring-constrainted Tensor Network Structures
-via Local Sampling (Demo)
+Permutation Search of Tensor Network Structures
+via Local Sampling (ICML, 2022)
 ===================================
 
-Paper
+Intro
 ------------------------------
 Permutation Search of Tensor Network Structures
 via Local Sampling <br/><br/>
