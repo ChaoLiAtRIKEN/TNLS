@@ -5,7 +5,7 @@ via Local Sampling (ICML, 2022)
 Intro
 ------------------------------
 Permutation Search of Tensor Network Structures
-via Local Sampling <br/><br/>
+via Local Sampling 
 
 
 
