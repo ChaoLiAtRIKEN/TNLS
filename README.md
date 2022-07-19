@@ -3,9 +3,8 @@ via Local Sampling (ICML, 2022)
 ===================================
 
 Intro
-------------------------------
-Permutation Search of Tensor Network Structures
-via Local Sampling 
+-------------------------------
+This repository is the implementation of TN-structure Local Sampling (TNLS) under the ring constraint ([arXiv](https://arxiv.org/abs/2206.06597)).
 
 
 
