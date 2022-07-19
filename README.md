@@ -11,7 +11,7 @@ via Local Sampling <br/><br/>
 
 Requirements
 ----------------------
- * Python 3.7.3
+ * Python 3.7.3<br/>
  
  * Tensorflow 1.13.1
  
