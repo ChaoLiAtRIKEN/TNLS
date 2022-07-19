@@ -30,4 +30,4 @@ The argvs stands for the name of data, the numbers of samples in one generation.
 
 Acknowledgement
 -------------------------
- * The code is modified based on the [TNGA](https://github.com/minogame/icml2020-TNGA)
+ * The code is modified based on the [TNGA](https://github.com/minogame/icml2020-TNGA). Thanks for their great efforts.
