@@ -24,7 +24,7 @@ The last 0 stands for the id of the agent. You can spawn multiply agents with ea
 
 Then start the main script by
 
-    python TRLS_TR.py data.npz 60
+    python TNLS_TR.py data.npz 60
 
 The argvs stands for the name of data, the numbers of samples in one generation. Here we provide a demo of learning the low-dimensional representation of a TR format tensor. The details of the algorithm will be saved in a `.log` file.
 
